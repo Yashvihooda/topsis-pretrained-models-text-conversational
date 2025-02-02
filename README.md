@@ -61,7 +61,9 @@ Models are ranked based on their TOPSIS scores.
 ### **Graphical Representation**
 Below is a bar chart depicting the rankings:
 
-![TOPSIS Scores](generated_chart.png)
+![image](https://github.com/user-attachments/assets/82b3b4e5-5367-4dd5-bb01-e025ecd431c9)
+
+
 
 ## Dependencies
 - Python 3.x
